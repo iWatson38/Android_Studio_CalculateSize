@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_blazer">Blazer</string>
+    <string name="action_shirt">Shirt</string>
+    <string name="action_pants">Pants</string>
+    <string name="action_size">Size</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="TextView1">Калькулятор размеров одежды</string>
+    <string name="TextView2">Рост</string>
+    <string name="TextView3">см</string>
+    <string name="TextView4">Обхват груди</string>
+    <string name="TextView5">см</string>
+    <string name="TextView6">Обхват талии</string>
+    <string name="TextView7">см</string>
+    <string name="TextView8">Обхват бёдер</string>
+    <string name="TextView9">см</string>
+    <string name="Calculate">Calculate</string>
+
+    <string name="TextView10">Пиджаки</string>
+    <string name="TextView11">Пиджак - чёрный (бандитский)</string>
+    <string name="Blazer_black">TODO</string>
+    <string name="TextView12">5000 руб.</string>
+    <string name="TextView13">Пиджак - синий (джентельменский)</string>
+    <string name="Blazer_blue">TODO</string>
+    <string name="TextView14">7500 руб.</string>
+    <string name="TextView15">Пиджак - белый (свадебный)</string>
+    <string name="Blazer_white">TODO</string>
+    <string name="TextView16">9900 руб.</string>
+    <string name="TextView17">Пиджак - розовый (мафиозный)</string>
+    <string name="rozovy">TODO</string>
+    <string name="TextView18">4000 руб.</string>
+    <string name="TextView19">Пиджак - незаметный (шпионский)</string>
+    <string name="voeny">TODO</string>
+    <string name="TextView20">6600 руб.</string>
+    <string name="Moldovan">Хочешь быть, таким же, как этот молодой молдаван?!</string>
+    <string name="zubenco_image">TODO</string>
+</resources>

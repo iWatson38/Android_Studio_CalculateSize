@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.androidapp.MainActivity">
+    <item
+        android:id="@+id/action_Blazer"
+        android:orderInCategory="1"
+        android:title="@string/action_blazer"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Size"
+        android:orderInCategory="4"
+        android:title="@string/action_size"
+        app:showAsAction="never" />
+</menu>
